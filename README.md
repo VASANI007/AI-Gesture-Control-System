@@ -74,44 +74,60 @@ Example gestures:
 
 ## 🪟 Windows
 
-1. Clone the repository
+### 1️. Clone the repository
 
-  git clone https://github.com/YOUR_USERNAME/ai-gesture-control-system.git
+```bash
+git clone https://github.com/YOUR_USERNAME/ai-gesture-control-system.git
+```
 
-2. Go to project folder
+### 2️. Go to the project folder
 
-  cd ai-gesture-control-system
+```bash
+cd ai-gesture-control-system
+```
 
-3. Install dependencies
+### 3️. Install required packages
 
-  pip install opencv-python mediapipe numpy pyautogui screen-brightness-control pycaw comtypes protobuf
+```bash
+pip install opencv-python mediapipe numpy pyautogui screen-brightness-control pycaw comtypes protobuf
+```
 
-4. Run the program
+### 4️. Run the program
 
-  python gesture_controller.py
-
+```bash
+python gesture_controller.py
+```
 
 ---
 
 ## 🐧 Linux
 
-1. Clone repository
+### 1️. Clone the repository
 
-  git clone https://github.com/YOUR_USERNAME/ai-gesture-control-system.git
+```bash
+git clone https://github.com/YOUR_USERNAME/ai-gesture-control-system.git
+```
 
-2. Go to project folder
+### 2️. Go to the project folder
 
-  cd ai-gesture-control-system
+```bash
+cd ai-gesture-control-system
+```
 
-3. Install dependencies
+### 3️. Install dependencies
 
-  pip3 install opencv-python mediapipe numpy pyautogui screen-brightness-control pycaw comtypes protobuf
+```bash
+pip3 install opencv-python mediapipe numpy pyautogui screen-brightness-control pycaw comtypes protobuf
+```
 
-4. Run program
+### 4️. Run program
 
-  python3 gesture_controller.py
+```bash
+python3 gesture_controller.py
+```
 
 ---
+
 
 # 🧑‍💻 Usage
 
