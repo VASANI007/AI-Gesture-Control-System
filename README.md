@@ -76,26 +76,19 @@ Example gestures:
 
 1. Clone the repository
 
-
-git clone https://github.com/YOUR_USERNAME/ai-gesture-control-system.git
-
+  git clone https://github.com/YOUR_USERNAME/ai-gesture-control-system.git
 
 2. Go to project folder
 
-
-cd ai-gesture-control-system
-
+  cd ai-gesture-control-system
 
 3. Install dependencies
 
-
-pip install opencv-python mediapipe numpy pyautogui screen-brightness-control pycaw comtypes protobuf
-
+  pip install opencv-python mediapipe numpy pyautogui screen-brightness-control pycaw comtypes protobuf
 
 4. Run the program
 
-
-python gesture_controller.py
+  python gesture_controller.py
 
 
 ---
@@ -104,27 +97,19 @@ python gesture_controller.py
 
 1. Clone repository
 
-
-git clone https://github.com/YOUR_USERNAME/ai-gesture-control-system.git
-
+  git clone https://github.com/YOUR_USERNAME/ai-gesture-control-system.git
 
 2. Go to project folder
 
-
-cd ai-gesture-control-system
-
+  cd ai-gesture-control-system
 
 3. Install dependencies
 
-
-pip3 install opencv-python mediapipe numpy pyautogui screen-brightness-control pycaw comtypes protobuf
-
+  pip3 install opencv-python mediapipe numpy pyautogui screen-brightness-control pycaw comtypes protobuf
 
 4. Run program
 
-
-python3 gesture_controller.py
-
+  python3 gesture_controller.py
 
 ---
 
