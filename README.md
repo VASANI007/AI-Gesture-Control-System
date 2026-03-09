@@ -128,6 +128,16 @@ python3 gesture_controller.py
 
 ---
 
+# 🎮 Gesture Control Chart
+
+| Gesture | Action |
+|-------|-------|
+| V Gesture | Move Cursor |
+| Fist | Drag / Hold Mouse |
+| Index Finger | Right Click |
+| Two Fingers | Double Click |
+| Pinch Gesture | Adjust Volume / Brightness |
+| Pinch Minor | Scroll |
 
 # 🧑‍💻 Usage
 
@@ -164,5 +174,5 @@ If you like this project, consider giving it a ⭐ on GitHub.
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 </p>
